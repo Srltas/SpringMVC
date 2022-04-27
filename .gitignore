@@ -22,7 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-# 프로젝트 설정파일
+# servlet 프로젝트 설정파일
 servlet/.gradle
 servlet/.idea
 servlet/build
@@ -33,3 +33,14 @@ servlet/gradlew
 servlet/gradlew.bat
 servlet/settings.gradle
 servlet/HELP.md
+
+# springmvc 프로젝트 설정파일
+springmvc/.gradle
+springmvc/.idea
+springmvc/build
+springmvc/gradle
+springmvc/.gitignore
+springmvc/gradlew
+springmvc/gradlew.bat
+springmvc/settings.gradle
+springmvc/HELP.md
