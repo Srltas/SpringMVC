@@ -27,3 +27,7 @@
  - (강의) HTTP 요청 - @RequestParam, @ModelAttribute, 단순 텍스트, JSON
  - (강의) HTTP API, 메시지 바디에 직접 입력, HTTP 메시지 컨버터
  - (강의) 요청 매핑 핸들러 어텝터 구조
+
+# 22.04.30
+ - (강의) 요구사항 분석, 상품 도메인 개발
+ - (강의) 상품 등록, 수정, PRG(Post/Redirect/Get), RedirectAttributes
