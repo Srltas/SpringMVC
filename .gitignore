@@ -44,3 +44,15 @@ springmvc/gradlew
 springmvc/gradlew.bat
 springmvc/settings.gradle
 springmvc/HELP.md
+
+# item-service 프로젝트 설정파일
+item-service/.gradle
+item-service/.idea
+item-service/build
+item-service/gradle
+item-service/.gitignore
+item-service/gradlew
+item-service/gradlew.bat
+item-service/settings.gradle
+item-service/HELP.md
+item-service/out
