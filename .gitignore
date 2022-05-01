@@ -81,3 +81,16 @@ form/gradlew
 form/gradlew.bat
 form/HELP.md
 form/settings.gradle
+
+# message 프로젝트 설정파일 
+message/.gradle
+message/.idea
+message/build
+message/gradle
+message/out
+message/.DS_Store
+message/.gitignore
+message/gradlew
+message/gradlew.bat
+message/HELP.md
+message/settings.gradle
