@@ -37,3 +37,9 @@
 스프링 MVC 2편
  - (강의) 타임리프 - 기본기능, 스프링 통합과 폼
  - (강의) 스프링 메시지 소스 설정, 웹 애플리케이션 메시지 적용
+
+# 22.05.03
+ - (강의) BindingResult, FieldError, ObjectError을 이용해 검증로직 구현
+ - (강의) Controller에 있던 검증로직을 Validator 객체를 만들어 따로 구현
+ - (강의) 하이버네이트 Validator을 사용하여 어노테이션으로 검증 구현
+ - (강의) Bean Validation groups으로 구분해 검증, Form마다 사용하는 전송 객체 분 학습
