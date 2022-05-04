@@ -107,3 +107,16 @@ validation/gradlew
 validation/gradlew.bat
 validation/HELP.md
 validation/settings.gradle
+
+# login 프로젝트 설정파일 
+login/.gradle
+login/.idea
+login/build
+login/gradle
+login/out
+login/.DS_Store
+login/.gitignore
+login/gradlew
+login/gradlew.bat
+login/HELP.md
+login/settings.gradle
