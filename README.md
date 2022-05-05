@@ -48,3 +48,7 @@
  - (강의) 쿠키와 세션을 이용해 로그인 기능 구현
  - (강의) 필터와 인터셉터를 이용해 요청 로그, 인증체크 기능 구현
  - (강의) ArgumentResolver를 활용해 컨트롤러 코드 리펙토링
+
+# 22.05.05
+ - (강의) 서블릿 예외처리 오류 페이지 작동 원리, 필터, 인터셉터 학습 및 구현
+ - (강의) HandlerExceptionResolver, @ExceptionHandler, @ControllerAdvice 학습 및 구현
