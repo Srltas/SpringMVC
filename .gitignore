@@ -120,3 +120,14 @@ login/gradlew
 login/gradlew.bat
 login/HELP.md
 login/settings.gradle
+
+# exception 프로젝트 설정파일
+exception/.gradle
+exception/.idea
+exception/gradle
+exception/out
+exception/.gitignore
+exception/gradlew
+exception/gradlew.bat
+exception/HELP.md
+exception/settings.gradle
