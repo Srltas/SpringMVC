@@ -145,3 +145,14 @@ typeconvertor/gradlew
 typeconvertor/gradlew.bat
 typeconvertor/HELP.md
 typeconvertor/settings.gradle
+
+# upload 프로젝트 설정파일
+upload/.gradle
+upload/.idea
+upload/gradle
+upload/out
+upload/.gitignore
+upload/gradlew
+upload/gradlew.bat
+upload/HELP.md
+upload/settings.gradle
