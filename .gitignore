@@ -34,6 +34,8 @@ servlet/gradlew.bat
 servlet/settings.gradle
 servlet/HELP.md
 
+
+
 # springmvc 프로젝트 설정파일
 springmvc/.gradle
 springmvc/.idea
@@ -131,3 +133,16 @@ exception/gradlew
 exception/gradlew.bat
 exception/HELP.md
 exception/settings.gradle
+
+# validation 프로젝트 설정파일
+validation/.gradle
+validation/.idea
+validation/build
+validation/gradle
+validation/out
+validation/.DS_Store
+validation/.gitignore
+validation/gradlew
+validation/gradlew.bat
+validation/HELP.md
+validation/settings.gradle
