@@ -134,15 +134,14 @@ exception/gradlew.bat
 exception/HELP.md
 exception/settings.gradle
 
-# validation 프로젝트 설정파일
-validation/.gradle
-validation/.idea
-validation/build
-validation/gradle
-validation/out
-validation/.DS_Store
-validation/.gitignore
-validation/gradlew
-validation/gradlew.bat
-validation/HELP.md
-validation/settings.gradle
+# typeconvertor 프로젝트 설정파일
+typeconvertor/.gradle
+typeconvertor/.idea
+typeconvertor/build
+typeconvertor/gradle
+typeconvertor/out
+typeconvertor/.gitignore
+typeconvertor/gradlew
+typeconvertor/gradlew.bat
+typeconvertor/HELP.md
+typeconvertor/settings.gradle
